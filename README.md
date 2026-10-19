@@ -4,7 +4,7 @@ Bienvenue sur le dépôt GitHub de **ma17hael**, développeur en étude spécial
 
 ## À propos de moi
 
-Je suis un développeur, actuellement en BTS, passionné par la conception de solutions logicielles variées : du développement web moderne (HTML, CSS, PHP, JavaScript) à la programmation C++ orientée jeux et systèmes interactifs. Tout mes projets s'efforce de respecter les standards d'écriture et de création.
+Je suis un développeur, actuellement en étude d'ingénieur, passionné par la conception de solutions logicielles variées : du développement web moderne (HTML, CSS, PHP, JavaScript) à la programmation C++ orientée jeux et systèmes interactifs. Tout mes projets s'efforce de respecter les standards d'écriture et de création.
 Chacun de mes projets a été fait avec tout ce que j'ai pu offrir, tout projet commencé sera finit même si certains ne seront pas populaires.
 Merci quand même de regardée tout mes projets
 
